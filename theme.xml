@@ -87,7 +87,7 @@
         <color id="workspace_link" value="#30affe" />
         <color id="workspace_link_hover" value="#ef4040" />
         <color id="timeline_normal" value="#333435" />
-        <color id="timeline_normal_text" value="#a3a3a3" />
+        <color id="timeline_normal_text" value="#dedede" />
         <color id="timeline_hover" value="#5e5e5e" />
         <color id="timeline_hover_text" value="#ffffff" />
         <color id="timeline_active" value="#7d929e" />
@@ -98,7 +98,7 @@
         <color id="timeline_clicked_text" value="#ffffff" />
         <color id="timeline_focused_text" value="#ffffff" />
         <color id="timeline_padding" value="#7d929e" />
-        <color id="timeline_band_highlight" value="#93adbb" />
+        <color id="timeline_band_highlight" value="#3d3d3d" />
         <color id="timeline_band_bg" value="#76858e" />
         <color id="status_bar_text" value="#cccccc" />
         <color id="status_bar_face" value="#222324" />
