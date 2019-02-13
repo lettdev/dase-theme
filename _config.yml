@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 show_downloads: true
+zip_url: https://github.com/tungkradle/dase-theme/releases/download/v1.0/dase-theme.zip
+tar_url: https://github.com/tungkradle/dase-theme/tarball/master
