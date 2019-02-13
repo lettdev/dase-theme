@@ -2,8 +2,14 @@
 
 ## Preview
 
+![dase-1]({{ site.url }}/assets/img/dase-1.jpg)
+
+![dase-2]({{ site.url }}/assets/img/dase-2.jpg)
+
+![dase-3]({{ site.url }}/assets/img/dase-3.jpg)
+
 ## Installation
-Download Dase Theme from the links in sidebar.
+Download Dase Theme's zip file from the link in sidebar.
 
 Open Aseprite, go to **Edit > Preferences**.
 
@@ -11,6 +17,6 @@ Select **Extensions** category in the left column.
 
 Click **Add Extension**, find and select the zip file you've just downloaded then click OK.
 
-Select **Theme** category in the left column, choose **dase** then click Select button.
+Select **Theme** category in the left column, choose **dase** then click **Select** button.
 
-Select **View > Refresh & Reload Skin** (or press F5).
+Make sure the theme fully loaded by select **View > Refresh & Reload Skin** (or press F5).
