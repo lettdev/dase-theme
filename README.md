@@ -2,11 +2,11 @@
 
 ## Preview
 
-![dase-1]({{ site.url }}/assets/img/dase-1.jpg)
+![dase-1](/dase-theme/assets/img/dase-1.jpg)
 
-![dase-2]({{ site.url }}/assets/img/dase-2.jpg)
+![dase-2](/dase-theme/assets/img/dase-2.jpg)
 
-![dase-3]({{ site.url }}/assets/img/dase-3.jpg)
+![dase-3](/dase-theme/assets/img/dase-3.jpg)
 
 ## Installation
 Download Dase Theme's zip file from the link in sidebar.
