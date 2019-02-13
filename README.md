@@ -1,22 +1,16 @@
-dase-theme
-===
-*Another dark theme for Aseprite*
-
-**dase** is a dark theme for Aseprite. It is based on the default theme by Ilija Melentijevic & David Capello. The current version is compatible with Aseprite v1.2 or later.
+**dase** (Dark ASE) is a dark theme for Aseprite. It is based on the default theme by Ilija Melentijevic & David Capello. The current version is compatible with Aseprite v1.2 or later.
 
 ## Preview
 
 ## Installation
-Download Dase Theme
+Download Dase Theme from the links in sidebar.
 
-Open Aseprite
+Open Aseprite, go to **Edit > Preferences**.
 
-Go to Edit > Preferences.
+Select **Extensions** category in the left column.
 
-Select Extensions category in the left column.
+Click **Add Extension**, find and select the zip file you've just downloaded then click OK.
 
-Click Add Extension, find and select the zip file you've just downloaded then click OK.
+Select **Theme** category in the left column, choose **dase** then click Select button.
 
-Select Themes category in the right column, choose Dase Theme then click Select button.
-
-Select View > Refresh & Reload Skin (or press F5)
+Select **View > Refresh & Reload Skin** (or press F5).

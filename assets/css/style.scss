@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-header {
-  h1 {
-    a {
-      color: red;
-    }
-  }
+a {
+  color: #3399ff;
 }
