@@ -1,0 +1,17 @@
+{
+  "name": "dase-theme",
+  "displayName": "Dase Theme",
+  "description": "A dark theme for Aseprite by Tung Le, based on the Default theme by (c) David Capello and Ilija Melentijevic",
+  "version": "1.0",
+  "author": { "name": "Tung Le", "email": "tungkradle@gmail.com", "url": "http://tunglt.com/" },
+  "publisher": "aseprite",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "dase", "path": "." }
+    ]
+  }
+}
