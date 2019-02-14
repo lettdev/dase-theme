@@ -19,6 +19,6 @@ Click **Add Extension**, find and select the zip file you've just downloaded the
 
 Select **Theme** category in the left column, choose **dase** then click **Select** button.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WebbedScornfulCuttlefish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<p><div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WebbedScornfulCuttlefish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></p>
 
 Make sure the theme fully loaded by select **View > Refresh & Reload Skin** (or press F5).
